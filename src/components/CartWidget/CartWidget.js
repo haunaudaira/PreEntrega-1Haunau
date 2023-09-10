@@ -1,4 +1,4 @@
-import cart from './assets/img/favicon-32x32.png    '
+import cart from './assets/img/favicon-32x32.png'
 
 const CartWidget = () =>{
     return(
