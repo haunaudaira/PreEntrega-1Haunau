@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PreEntrega-1Haunau/build/static/css/main.073c9b0a.css",
+    "main.js": "/PreEntrega-1Haunau/build/static/js/main.179f4269.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PreEntrega-1Haunau/build/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/PreEntrega-1Haunau/build/index.html",
+    "main.073c9b0a.css.map": "/PreEntrega-1Haunau/build/static/css/main.073c9b0a.css.map",
+    "main.179f4269.js.map": "/PreEntrega-1Haunau/build/static/js/main.179f4269.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PreEntrega-1Haunau/build/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.179f4269.js"
+  ]
+}
